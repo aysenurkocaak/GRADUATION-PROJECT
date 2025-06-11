@@ -2,7 +2,7 @@
 
 ## Project Contents 🌟
 
-![](https://github.com/aysenurkocaak/photo)
+![](https://github.com/aysenurkocaak/photo/blob/main/Employee_turnover_prediction%20(4)-1.png)
 ## Project Overview
 
 In this project, we will apply various machine learning algorithms to a normalized and scaled dataset to evaluate their performance. The algorithms to be tested include:
