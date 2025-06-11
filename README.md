@@ -1,5 +1,8 @@
-# Machine Learning Algorithms Comparison with SMOTE
+# EMPLOYEE TURNOVER PREDICTION WITH XAI 
 
+## Project Contents 🌟
+
+![](https://github.com/aysenurkocaak/photo)
 ## Project Overview
 
 In this project, we will apply various machine learning algorithms to a normalized and scaled dataset to evaluate their performance. The algorithms to be tested include:
