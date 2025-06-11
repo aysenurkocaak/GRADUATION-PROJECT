@@ -6,7 +6,7 @@ This project, supported by TÜBİTAK, aims to predict employee turnover using ma
 
 ## Project Contents 🌟
 
-![]([https://github.com/aysenurkocaak/photo](https://github.com/aysenurkocaak/photo/blob/main/Employee_turnover_prediction%20(4)-1.png))
+![](https://github.com/aysenurkocaak/photo/blob/main/Employee_turnover_prediction%20(4)-1.png)
 
 
 ## Workflow Summary:
