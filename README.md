@@ -1,14 +1,15 @@
 # EMPLOYEE TURNOVER PREDICTION WITH XAI 
 
-# Project Contents 🌟
-
-![]([https://github.com/aysenurkocaak/photo](https://github.com/aysenurkocaak/photo/blob/main/Employee_turnover_prediction%20(4)-1.png))
-
-# Project Overview
+## Project Overview
 
 This project, supported by TÜBİTAK, aims to predict employee turnover using machine learning techniques and evaluate the effects of preprocessing, class balancing, discretization, and explainability on model performance and transparency.
 
-# Workflow Summary:
+## Project Contents 🌟
+
+![]([https://github.com/aysenurkocaak/photo](https://github.com/aysenurkocaak/photo/blob/main/Employee_turnover_prediction%20(4)-1.png))
+
+
+## Workflow Summary:
 ## 1. Data Preprocessing:
 The IBM HR Analytics dataset was cleaned and preprocessed to prepare for modeling. Missing values and class imbalance were analyzed and addressed.
 ## 2. Modeling:
